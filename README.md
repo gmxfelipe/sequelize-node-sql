@@ -6,4 +6,4 @@
  
 <P>As tecnologias usadas para o desenvolvimento desse projeto foram:</p>
 
-<a href="https://nodejs.org/en/">🚀 NodeJS</a> 
+- <a href="https://nodejs.org/en/">🚀 NodeJS</a> 
