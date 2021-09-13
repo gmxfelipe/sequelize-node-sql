@@ -7,3 +7,7 @@
 <P>As tecnologias usadas para o desenvolvimento desse projeto foram:</p>
 
 - <a href="https://nodejs.org/en/">🚀 NodeJS</a> 
+
+<h4 align="center">
+  <em>&lt;/&gt;</em> by <a href="https://github.com/gmxfelipe" target="_blank">Felipe Augusto Gomes</a>
+</h4>
